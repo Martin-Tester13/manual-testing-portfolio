@@ -36,7 +36,8 @@ Appliaction: SauceDemo
 5. Test Data  
    Test accounts used:  
 * standard\_user \- valid user  
-* locked\_out\_user \- blocked user
+* locked\_out\_user \- blocked user  
+* problem\_user \- issue user
 
 6. Main Test Scenarios  
    Login  
