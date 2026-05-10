@@ -28,7 +28,7 @@ Appliaction: SauceDemo
 * simply explorative testing
 
 4. Test Environment  
-* Browser: Google Chrome, Firefox  
+* Browser: Firefox  
 * OS: Linux mint 22.3  
 * Device: Laptop  
 * Internet: Stable connection

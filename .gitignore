@@ -1,0 +1,20 @@
+# Dočasné súbory operačného systému
+.DS_Store
+Thumbs.db
+
+# Dočasné súbory balíka Office (Excel, Word)
+~$*
+.~lock.*
+
+# Osobné nastavenie IDE / Textových editorov
+.vscode/
+.idea/
+*.swp
+
+# Súkromné poznámky alebo citlivé dáta (ak ich máš v extra súbore)
+credentials.txt
+notes_private.md
+
+# Logy a screenshoty, ktoré nechceš v hlavnom repozitári (voliteľné)
+*.log
+screenshots/temp/

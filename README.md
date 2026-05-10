@@ -29,7 +29,7 @@ The following artifacts were created during testing:
 
 🛠 Tools Used
 
-* Browser: Google Chrome / Mozilla Firefox  
+* Browser: Mozilla Firefox  
 * DevTools: For inspecting elements and checking console errors.  
 * Documentation: Google Sheets / MS Excel (or Jira/Trello if applicable).
 
